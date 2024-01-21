@@ -1,0 +1,16 @@
+p {
+    font-family: Verdana,"DejaVu Sans", sans-serif ;
+    background-color: rgb(253, 137, 163);
+}
+#second-id{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;;
+}
+#fourth-id{
+    background-color: rgb(131, 228, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
