@@ -67,3 +67,26 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.modal {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  /*usar gap en conjunción con el padding es mejor que mi solución
+    inicial (margenes laterales sin gap*/
+
+}
+.icon {
+  flex-shrink: 0;
+
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-weight: bold;
+}
+.text {
+  margin: 10px 0px;
+}
